@@ -2,7 +2,7 @@
 
 For the English version of this README, click [here](README_EN.md).
 
-**Fonteeboa** é um tema moderno e estiloso para o **Visual Studio Code**, cuidadosamente projetado para refletir minhas preferências de cores pessoais com a cor verde. Este tema está **diretamente ligado à minha marca e logotipo**, tornando a experiência única e personalizada.
+**Fonteeboa** é um tema moderno e estiloso para o **Visual Studio Code**, cuidadosamente projetado para refletir minhas preferências de cores pessoais e melhorar a legibilidade. Este tema está **diretamente ligado à minha marca e logotipo**, tornando a experiência única e personalizada.
 
 Ele apresenta uma **paleta de cores vibrante e de alto contraste**, incluindo tons de **verde neon, azul ciano e vermelho profundo**, garantindo uma experiência visualmente agradável para os desenvolvedores. Seja programando em **JavaScript, Python, C++, Rust ou qualquer outra linguagem**, o Fonteeboa proporcionará uma aparência **consistente e imersiva** em todo o seu ambiente de desenvolvimento.
 

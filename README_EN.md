@@ -2,7 +2,7 @@
 
 Para a versão em português deste README, clique [aqui](README.md).
 
-**Fonteeboa** is a modern and stylish dark theme for **Visual Studio Code**, carefully designed to reflect my personal color preferences  with the color green. This theme is **directly linked to my brand and logo**, making it a unique and custom experience.
+**Fonteeboa** is a modern and stylish dark theme for **Visual Studio Code**, carefully designed to reflect my personal color preferences and enhance readability. This theme is **directly linked to my brand and logo**, making it a unique and custom experience.
 
 It features a **vibrant and high-contrast color palette**, including shades of **neon green, cyan blue, and deep red**, ensuring a comfortable and visually pleasing experience for developers. Whether you're coding in **JavaScript, Python, C++, Rust, or any other language**, Fonteeboa will provide a **consistent and immersive** look across your entire development environment.
 
