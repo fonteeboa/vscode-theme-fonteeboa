@@ -2,8 +2,9 @@
   "name": "fonteeboa",
   "displayName": "Fonteeboa",
   "description": "Fonteeboa é um tema escuro elegante e sofisticado para o Visual Studio Code, projetado para máxima legibilidade e conforto visual. Com um esquema de cores vibrante que mistura tons de verde neon, azul ciano e vermelho intenso, este tema realça a sintaxe de forma nítida, proporcionando uma experiência fluída e produtiva para desenvolvedores",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "Fonteeboa",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/fonteeboa/vscode-theme-fonteeboa"
